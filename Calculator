@@ -1,8 +1,16 @@
 Aiza Azeem
 24_ST_031
+ Division
 Console.WriteLine("enter 1st number");
 Int x = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("enter 2nd number");
 Int y = Convert.ToInt32(Console.ReadLine());
 int z = x/y
 Console.WriteLine("the division of numbers is " +z);
+Console.WriteLine("Enter 1st number");
+Int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter 2nd number");
+Int y = Convert.ToInt32(Console.ReadLine());
+Int z = x+y
+Console.WriteLine("the sum of numbers is " +z);
+ 
