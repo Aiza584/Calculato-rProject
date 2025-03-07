@@ -1,8 +1,22 @@
 Aiza Azeem
 24_ST_031
+ Multiplication
+
+ Subtraction
+Console.WriteLine("enter 1st number");
+Int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("enter 2nd number");
+Int y = Convert.ToInt32(Console.ReadLine());
+Int z = x-y
+Console.WriteLine("the subtraction of numbers is " +z);
+ main
 Console.WriteLine("Enter 1st number");
 Int x = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter 2nd number");
 Int y = Convert.ToInt32(Console.ReadLine());
+ Multiplication
 Int z = x*y
 Console.WriteLine("the multiplication of numbers is " +z);
+Int z = x+y
+Console.WriteLine("the sum of numbers is " +z);
+ main main
