@@ -33,4 +33,7 @@ Console.WriteLine("the sum of numbers is " +z);
 
  main main
  main
+ conflict-branch-2
 this line is for conflict 2
+this line is for conflict branch 1
+ main
